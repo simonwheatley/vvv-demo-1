@@ -1,6 +1,6 @@
 # VVV Auto Bootstrap Demo 1
 
-**This demo is currently inoperable, waiting on [WP-CLI #853](https://github.com/wp-cli/wp-cli/issues/853). Try [demo 2]() and demo 3 instead.**
+**This demo is currently inoperable, waiting on [WP-CLI #853](https://github.com/wp-cli/wp-cli/issues/853). Try [demo 2](https://github.com/simonwheatley/vvv-demo-2) and [demo 3](https://github.com/simonwheatley/vvv-demo-3) instead.**
 
 This is one of a series of demonstrations of the auto-sitesetup designed to be used with [Varying Vagrants Vagrant](https://github.com/10up/varying-vagrant-vagrants/).
 
